@@ -1,2 +1,2 @@
-path: 'my_model.joblib'
+path: "parkinsonsKNN.joblib"
 features: ['MDVP:Jitter(%)', 'MDVP:Flo(Hz)'] 
